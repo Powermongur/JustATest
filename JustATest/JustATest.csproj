@@ -25,7 +25,7 @@
     <MapFileExtensions>true</MapFileExtensions>
     <InstallUrl>https://github.com/Powermongur/JustATest/raw/master/JustATest/Installer/</InstallUrl>
     <UpdateUrl>https://github.com/Powermongur/JustATest/raw/master/JustATest/Installer/setup.exe/</UpdateUrl>
-    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationRevision>4</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
